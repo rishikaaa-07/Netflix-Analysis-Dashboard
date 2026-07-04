@@ -24,7 +24,14 @@ The goal of this project is to transform raw Netflix data into meaningful visual
 	•	Data Cleaning & Visualization Techniques
 
 ⸻
+## 🎯 Dashboard Preview
+> Add screenshots of your dashboard here.
+> <img width="1336" height="627" alt="netflix1" src="https://github.com/user-attachments/assets/d9d2c8b6-1428-4606-b243-c0ca28fb70a5" />
 
+<img width="1330" height="544" alt="image" src="https://github.com/user-attachments/assets/c4873b6e-619d-439f-b492-ce3bfeeeef18" />
+
+
+______
 📈 Dashboard Features
 	•	🌍 Total Movies & TV Shows by Country – World map visualization
 	•	🎬 Movies vs TV Shows Distribution – Donut chart comparison
